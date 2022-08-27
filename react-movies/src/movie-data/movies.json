@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 2,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 3,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 4,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 5,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 6,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 7,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 8,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 9,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 10,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 11,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 12,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 13,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 14,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 15,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 16,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 17,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 18,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    },
+    {
+        "id": 19,
+        "name": "Star Wars - A New Hope",
+        "rating": 5,
+        "released_date": "1977"
+    },
+    {
+        "id": 20,
+        "name": "Star Wars - Empire Strikes Back",
+        "rating": 5,
+        "released_date": "1980"
+    },
+    {
+        "id": 21,
+        "name": "Star Wars - Return of the Jedi",
+        "rating": 5,
+        "released_date": "1983"
+    }
+]
